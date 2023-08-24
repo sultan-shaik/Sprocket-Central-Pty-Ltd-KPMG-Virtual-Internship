@@ -1,0 +1,32 @@
+# Tableau Dashboard Story: Sprocket Central Pty Ltd Analysis
+
+## Introduction
+This repository contains a Tableau dashboard story that presents an analysis of customer data for Sprocket Central Pty Ltd. The dashboard story is designed to provide insights into customer trends, segments, and marketing strategies. It is created using Tableau and aims to help the Sprocket Central Pty Ltd marketing team make data-driven decisions.
+
+## Dashboard Story Overview
+The Tableau dashboard story consists of multiple story points, each highlighting different aspects of the analysis. The story points are designed to guide the audience through the analysis process, from data exploration to final recommendations.
+
+### Story Point 1: Data Summary
+This story point provides a high-level overview of the dataset, including key statistics, data distributions, and trends. It sets the context for the subsequent analyses.
+
+### Story Point 2: Customer Segments
+This story point focuses on the segmentation of customers based on demographic and transactional data. It presents visualizations that showcase customer segments and their characteristics.
+
+### Story Point 3: Marketing Strategy
+In this story point, the analysis transitions to discussing marketing strategies. It highlights the customer segments with the highest customer value and proposes targeted marketing strategies for each segment.
+
+
+
+## Interacting with the Dashboard
+Once you open the Tableau workbook, you can interact with the dashboard story by:
+- Navigating through different story points using the navigation buttons.
+- Clicking on visualizations to interactively explore data points.
+- Using filters and parameters to customize your view and gain deeper insights.
+
+
+
+## Contact
+For any questions, feedback, or collaboration opportunities, please contact [Shaik Sultam] at [sultanfazal884@email.com].
+
+
+
